@@ -27,6 +27,7 @@ Language files will be stored in the JSON data format, which is convertible into
 # Index.js
 This is the main file for your Node.js server.
 
+    ```javascript
     var fs = require('fs');
     var http = require('http');
     var url = require('url');
@@ -68,6 +69,7 @@ This is the main file for your Node.js server.
         return res.end();
       });
     }).listen(8080);
+    ```
 
 
 # Running Node.js server
