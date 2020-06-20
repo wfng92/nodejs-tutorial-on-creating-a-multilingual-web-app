@@ -1,3 +1,5 @@
+⚠️ This repo is no longer maintained! Please visit https://github.com/PhraseApp-Blog/nodejs-tutorial-on-creating-a-multilingual-web-app for the up-to-date repo.
+
 # Node.js Tutorial on Creating a Multilingual Web App
 This repository contains the source code for creating a multilingual web application in Node.js, without the need to install any external localization or internationalization library.
 
